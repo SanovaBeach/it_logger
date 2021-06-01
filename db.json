@@ -1,0 +1,32 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Done changing",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-06-01T05:30:32.951Z"
+    },
+    {
+      "message": "Alina",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-06-01T05:30:51.593Z",
+      "id": 2
+    },
+    {
+      "message": "Buy New Hard Drive",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-06-01T05:31:23.841Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    }
+  ]
+}
